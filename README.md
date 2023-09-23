@@ -1,4 +1,4 @@
-# Vishnu Dev 🌟
+# Vishnu Dev 👨‍💻🌐
 
 Hey there! I'm Vishnu, a passionate data analyst always looking to dig deeper into the vast world of data. Let's unravel the stories data has to tell! 💼📈
 
