@@ -21,10 +21,10 @@ Hey there! I'm Vishnu, a passionate data analyst always looking to dig deeper in
 
 ## GitHub Statistics 📊
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishnudevp304&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnudevp304&theme=dark&hide_border=false" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishnudev-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnudev-p&theme=dark&hide_border=false" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnudevp304&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnudev-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 ---
 
