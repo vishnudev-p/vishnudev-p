@@ -1,15 +1,15 @@
 # Vishnu Dev 👨‍💻🌐
 
-Hey there! I'm Vishnu, a passionate data analyst always looking to dig deeper into the vast world of data. Let's unravel the stories data has to tell! 💼📈
+Hey there! I'm Vishnu, a zealous Python developer and data analyst. In the vast realm of code and data, I strive to weave functionality and insight together. Let’s decode the possibilities together!  💼📈
 
 ---
 
 ## About Me 🔍
 
-- 📊 **Proficient With:** Advanced Excel functions, Power BI, SQL, Python's Pandas & NumPy.
-- 🌱 **Learning:** Advanced analytics frameworks and tools.
-- 💡 **Ask Me About:** Data science techniques using Python, crafting SQL queries, or managing data with Excel.
-- 🤝 **Collaborating:** Open to joining forces on open-source projects centered on data analysis & visualization.
+- 📊 **Proficient With:** Python frameworks (like Django & Flask), SQL for data management, Data visualization tools.
+- 🌱 **Learning:** Advanced Python packages, data analytics techniques, and integrating AI modules.
+- 💡 **Ask Me About:**  Developing robust Python applications, building efficient SQL databases, or extracting insights using data analytics tools
+- 🤝 **Collaborating:** Keen on partnering up for open-source projects that revolve around Python development & data analysis.
 - 🤓 **Fun Fact:** The name "Python" comes from Guido van Rossum's love for "Monty Python's Flying Circus", not the snake!
 
 ---
