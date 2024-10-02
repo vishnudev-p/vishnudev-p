@@ -1,6 +1,6 @@
 # Vishnu Dev 👨‍💻🌐
 
-Hey there! I'm Vishnu, a zealous Python developer and data analyst. In the vast realm of code and data, I strive to weave functionality and insight together. Let’s decode the possibilities together!  💼📈
+Hey there! I'm Vishnu, a  Python developer and data analyst. In the vast realm of code and data, I strive to weave functionality and insight together. Let’s decode the possibilities together!  💼📈
 
 ---
 
